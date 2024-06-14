@@ -1,0 +1,22 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/did/v1",
+    "https://w3id.org/security/suites/jws-2020/v1"
+  ],
+  "id": "did:web:pavankad.github.io",
+  "assertionMethod": [
+    {
+      "id": "did:web:pavankad.github.io#8407df9acb4d632c0033bc14e599f57ae43a0c9d08452115b55614681f6a1023",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:pavankad.github.io",
+      "publicKeyJwk": {
+        "kty": "EC",
+        "crv": "P-256",
+        "x": "ewkDYbEQIX_PrAgoAVr99-qw2O0wEqq7OPY8f3cjioE=",
+        "y": "-XYk4fR18bX-Rcjus8gn6dqAZev63TI_pQlu1hbLFeI=",
+        "kid": "8407df9acb4d632c0033bc14e599f57ae43a0c9d08452115b55614681f6a1023",
+        "alg": "ES256"
+      }
+    }
+  ]
+}
