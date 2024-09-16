@@ -6,15 +6,15 @@
   "id": "did:web:pavankad.github.io",
   "assertionMethod": [
     {
-      "id": "did:web:pavankad.github.io#007ee09d5dad945918f86a377a5a3c9f1f013183e56989e591cfc8407f1f972a",
+      "id": "did:web:pavankad.github.io#e00880271e1208c52605a504f3375a4ce4690d14fd0ae01411ef284e8db790f6",
       "type": "JsonWebKey2020",
       "controller": "did:web:pavankad.github.io",
       "publicKeyJwk": {
         "kty": "EC",
         "crv": "P-256",
-        "x": "_f5Bx8xujTLfoH7gbUDSZ-8xhUWyu58ZPD3Bn9xf44Y=",
-        "y": "bj9zZHwYrdvPEJqAqebAVlPsBrqMscQG7WtK6WLXP7Y=",
-        "kid": "007ee09d5dad945918f86a377a5a3c9f1f013183e56989e591cfc8407f1f972a",
+        "x": "W_54f5T3KzWuajZrQa-voTut7LgSqgLBk1iRvH1AZB4=",
+        "y": "TomcbNbdftVU0cFcOSSZDqUK_FHAu329PWpJBpIaIMc=",
+        "kid": "e00880271e1208c52605a504f3375a4ce4690d14fd0ae01411ef284e8db790f6",
         "alg": "ES256"
       }
     }
